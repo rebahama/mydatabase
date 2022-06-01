@@ -15,7 +15,7 @@ cursor = connection.cursor()
 
 # select queen from the artist table 3
 
-#cursor.execute('SELECT * FROM "Artist" WHERE "Name" = %s', ["Queen"])
+# cursor.execute('SELECT * FROM "Artist" WHERE "Name" = %s', ["Queen"])
 
 
 # select only by "ArtistId" #51 from the "Artist" table 4
